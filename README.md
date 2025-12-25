@@ -538,4 +538,3 @@ Thank you for being part of this developer community! 🙏
 ---
 
 **Happy coding! 🚀**
-# fitness-app
